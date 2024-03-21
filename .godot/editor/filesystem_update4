@@ -1,0 +1,4 @@
+res://scenes/card_ui/card_states/card_released_state.gd
+res://scenes/card_ui/card_states/card_state.gd
+res://scenes/card_ui/card_states/card_base_state.gd
+res://scenes/card_ui/card_state_machine.gd

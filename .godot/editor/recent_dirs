@@ -1,9 +1,13 @@
+res://art
+res://scenes/enemy
+res://scenes/player
+res://scenes/ui
+res://characters/warrior/
+res://enemies/crab/
 res://scenes/card_ui/card_states
 res://global
 res://scenes/card_target_selector
-res://art
 res://characters/warrior/cards/
-res://scenes/ui
 res://scenes/card_ui
 res://
 res://scenes/battle

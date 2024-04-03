@@ -1,6 +1,7 @@
-Sprite2D
 Label
+Panel
 TextureRect
+Sprite2D
 HBoxContainer
 Node
 CanvasLayer
